@@ -1,2 +1,2 @@
-# alive_glcn
-glc_nc
+# alive_galaxycloud
+relive 261008
