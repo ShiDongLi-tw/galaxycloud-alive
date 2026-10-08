@@ -1,0 +1,12 @@
+{
+  "commands": {
+    "install": "npm install --omit=dev --no-audit --no-fund",
+    "start": "node index.js"
+  },
+  "health": {
+    "path": "/health"
+  },
+  "deploy": {
+    "rootDirectory": "./"
+  }
+}

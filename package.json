@@ -1,0 +1,14 @@
+{
+  "name": "edge-relay-service",
+  "version": "1.0.0",
+  "description": "Lightweight WebSocket message relay service",
+  "main": "index.js",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
